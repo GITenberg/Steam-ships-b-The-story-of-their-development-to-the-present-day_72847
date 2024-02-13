@@ -1,0 +1,29 @@
+_repo: Steam-ships-b-The-story-of-their-development-to-the-present-day_72847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fletcher, R. A.
+    alias: Fletcher, Richard A.
+    gutenberg_agent_id: '56819'
+    url: http://www.gutenberg.org/2009/agents/56819
+description: ''
+gutenberg_issued: '2024-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72847'
+language: en
+pgterms:marc904: https://archive.org/details/steamshipsstoryo0000flet
+pgterms:marc905: 20230507021122fletcher
+pgterms:marc906: '1910'
+pgterms:marc907: gb
+production_note: Peter Becker, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bSidgwick & Jackson, Ltd., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Steam-ships : $b The story of their development to the present day'
+url: http://www.gutenberg.org/ebooks/72847
